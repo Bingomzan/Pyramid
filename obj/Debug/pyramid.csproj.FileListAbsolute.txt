@@ -1,0 +1,10 @@
+C:\Users\pirt863\source\repos\pyramid\bin\Debug\pyramid.exe.config
+C:\Users\pirt863\source\repos\pyramid\bin\Debug\pyramid.exe
+C:\Users\pirt863\source\repos\pyramid\bin\Debug\pyramid.pdb
+C:\Users\pirt863\source\repos\pyramid\obj\Debug\pyramid.Form1.resources
+C:\Users\pirt863\source\repos\pyramid\obj\Debug\pyramid.Properties.Resources.resources
+C:\Users\pirt863\source\repos\pyramid\obj\Debug\pyramid.csproj.GenerateResource.cache
+C:\Users\pirt863\source\repos\pyramid\obj\Debug\pyramid.exe
+C:\Users\pirt863\source\repos\pyramid\obj\Debug\pyramid.pdb
+C:\Users\pirt863\source\repos\pyramid\obj\Debug\pyramid.csproj.CoreCompileInputs.cache
+C:\Users\pirt863\source\repos\pyramid\obj\Debug\pyramid.csproj.AssemblyReference.cache
